@@ -1,14 +1,5 @@
 # React_Axios
 
-# Cab Allocation System
-Real time rides can be requested by customers on the system,
-which can be accepted by available drivers (who don’t have an ongoing trip). Whichever
-driver picks up gets to serve the user. Ride is completed after the customer ends it.
-
-### Further explanation and assumptions:
-1. Each customer can request only one ride at a time.
-2. Each driver can accept / serve only one ride at a time.
-3. Every ride has 3 status - requested, accepted & done.
 
 ### Prerequisites
 
